@@ -8,12 +8,12 @@ var school;
 function preload()
 {
  
-playerAnimation = loadAnimation("images/Player-03.png")
-logAnimation = loadAnimation("images/log2.png")
-car1 = loadAnimation("images/car1.png")
-car2 = loadAnimation("images/car2.png")
-wallAnimation = loadAnimation("images/wall.png")
-cityAnimation = loadAnimation("images/city1.png")
+playerAnimation = loadAnimation("Player-03.png")
+logAnimation = loadAnimation("log2.png")
+car1 = loadAnimation("car1.png")
+car2 = loadAnimation("car2.png")
+wallAnimation = loadAnimation("wall.png")
+cityAnimation = loadAnimation("city1.png")
 
 }
 
